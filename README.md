@@ -1,3 +1,3 @@
 # github-demo
 This is my first Git Repository.
-Authur - shivam sharma
+Author - shivam sharma
